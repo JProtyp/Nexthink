@@ -1,0 +1,4 @@
+Q4 Answer: The main use for Optional is to avoid null pointers in the code. This is mostly useful when checking
+collections, as you won't get a null pointer if any data in the collection is null.
+
+I also think that process the "null" possibility with a custom function/class can help when we need isolate the problems' root

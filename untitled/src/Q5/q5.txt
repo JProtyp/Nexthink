@@ -1,0 +1,28 @@
+Q5 Answer:
+
+Test plan proposed:
+
+Functional testing:
+Note: All these tests have to be done in both, Frontend and Backend
+    - Happy path:
+        - Correct Username/pass
+        - Check Cancel response
+        - Check Connect response
+    - Negative path:
+        - Unused Username
+        - Bad format Username
+        - Incorrect password
+        - Bad format password
+    - Connectivity:
+        - Server ping
+    - Security:
+        - Check field encryption
+        - SQL insertions
+        - Cross-Reference checks
+
+Performance testing:
+        - Users connection per second
+        - Users connected simultaneously
+        - DDOS by login attempts
+        - CPU cost per login
+        - Memory increase per login (trying to find memory leaks)

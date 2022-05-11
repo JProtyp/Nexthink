@@ -1,0 +1,10 @@
+DISCLAIMER: This is my first time implementing this kind of class. I have to say that I've tried everything I've found
+on the internet just to make the last 2 failing cases work. My conclusion is: I'm not able to keep the same instance of
+the object when creating it empty. I'd like if you were so kind to pass me the answer after correcting this quiz.
+Thanks in advance.
+
+
+Q4 Answer: The main use for Optional is to avoid null pointers in the code. This is mostly useful when checking
+collections, as you won't get a null pointer if any data in the collection is null.
+
+I also think that process the "null" possibility with a custom exception can help when we need isolate the problems' root

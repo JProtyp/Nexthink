@@ -1,0 +1,51 @@
+Jun 26 06:00:00 nxengine NX[23157]: [NEXThink|DatabaseCleanup.cpp:186|0xaed5c20] [1216] events from application [svchost.exe] pointing to [491] services have been removed
+Jun 26 06:00:00 nxengine NX[23157]: [NEXThink|DatabaseCleanup.cpp:186|0xaed5c20] [545] events from application [system] pointing to [262] services have been removed
+Jun 26 06:00:00 nxengine NX[23157]: [NEXThink|DatabaseCleanup.cpp:207|0xaed5c20] database cleanup completed
+Jun 26 06:15:00 nxengine NX[WARNING]: [2012-06-26 05:00:00] Sources with low disk space [2]
+Jun 26 06:15:00 nxengine NX[23157]: [2012-06-26 05:00:00] Sources with low disk space |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 06:15:00 nxengine NX[23157]: [2012-06-26 05:00:00] Sources with low disk space |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 06:19:00 nxengine NX[23157]: 2012-06-26T06:19:00 Untitled alert 1 [1]
+Jun 26 06:19:00 nxengine NX[23157]: 2012-06-26T06:19:00 Untitled alert 1 |PORTALTEST|192.168.0.131|CORP|desktop|Windows 7 Enterprise|2GB|01.01.1970@00:00:00|10.06.2012@23:44:47|
+Jun 26 06:19:00 nxengine NX[warning]: 2012-06-26T06:19:00 Sources with low disk space -1 [1]
+Jun 26 06:19:00 nxengine NX[23157]: 2012-06-26T06:19:00 Sources with low disk space -1 |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 06:58:00 nxengine NX[23157]: 2012-06-26T06:58:00 Untitled alert 1 [1]
+Jun 26 06:58:00 nxengine NX[23157]: 2012-06-26T06:58:00 Untitled alert 1 |NXT-FINDER|192.168.0.37|CORP|desktop|Windows 7 Ultimate SP1|8GB|22.06.2012@13:41:07|25.06.2012@09:16:10|
+Jun 26 06:58:00 nxengine NX[23157]: 2012-06-26T06:58:00 Sources with low disk space -1 [1]
+Jun 26 06:58:00 nxengine NX[23157]: 2012-06-26T06:58:00 Sources with low disk space -1 |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 07:00:00 nxengine NX[23157]: [NEXThink|CallbackManager.cpp:102|0xaed5c20] 536.5MB of virtual memory used
+Jun 26 07:15:00 nxengine NX[CRITICAL]: [2012-06-26 06:00:00] Sources with low disk space [2]
+Jun 26 07:15:00 nxengine NX[23157]: [2012-06-26 06:00:00] Sources with low disk space |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 07:15:00 nxengine NX[23157]: [2012-06-26 06:00:00] Sources with low disk space |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 07:19:00 nxengine NX[ERROR]: 2012-06-26T07:19:00 Untitled alert 1 [1]
+Jun 26 07:19:00 nxengine NX[23157]: 2012-06-26T07:19:00 Untitled alert 1 |PORTALTEST|192.168.0.131|CORP|desktop|Windows 7 Enterprise|2GB|01.01.1970@00:00:00|10.06.2012@23:44:47|
+Jun 26 07:19:00 nxengine NX[23157]: 2012-06-26T07:19:00 Sources with low disk space -1 [1]
+Jun 26 07:19:00 nxengine NX[23157]: 2012-06-26T07:19:00 Sources with low disk space -1 |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 07:57:30 nxengine NX[23157]: 2012-06-26T07:57:30 Untitled alert 1 [1]
+Jun 26 07:57:30 nxengine NX[23157]: 2012-06-26T07:57:30 Untitled alert 1 |NXT-FINDER|192.168.0.37|CORP|desktop|Windows 7 Ultimate SP1|8GB|22.06.2012@13:41:07|25.06.2012@09:16:10|
+Jun 26 07:57:30 nxengine NX[warning]: 2012-06-26T07:57:30 Sources with low disk space -1 [1]
+Jun 26 07:57:30 nxengine NX[23157]: 2012-06-26T07:57:30 Sources with low disk space -1 |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 08:00:00 nxengine NX[23157]: [NEXThink|CallbackManager.cpp:102|0xaed5c20] 536.5MB of virtual memory used
+Jun 26 08:15:00 nxengine NX[CRITICAL]: [2012-06-26 07:00:00] Sources with low disk space [2]
+Jun 26 08:15:00 nxengine NX[23157]: [2012-06-26 07:00:00] Sources with low disk space |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 08:15:00 nxengine NX[23157]: [2012-06-26 07:00:00] Sources with low disk space |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 08:19:00 nxengine NX[23157]: 2012-06-26T08:19:00 Untitled alert 1 [1]
+Jun 26 08:19:00 nxengine NX[23157]: 2012-06-26T08:19:00 Untitled alert 1 |PORTALTEST|192.168.0.131|CORP|desktop|Windows 7 Enterprise|2GB|01.01.1970@00:00:00|10.06.2012@23:44:47|
+Jun 26 08:19:00 nxengine NX[23157]: 2012-06-26T08:19:00 Sources with low disk space -1 [1]
+Jun 26 08:19:00 nxengine NX[23157]: 2012-06-26T08:19:00 Sources with low disk space -1 |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 08:58:30 nxengine NX[23157]: 2012-06-26T08:58:30 Untitled alert 1 [1]
+Jun 26 08:58:30 nxengine NX[23157]: 2012-06-26T08:58:30 Untitled alert 1 |NXT-FINDER|192.168.0.37|CORP|desktop|Windows 7 Ultimate SP1|8GB|22.06.2012@13:41:07|25.06.2012@09:16:10|
+Jun 26 08:58:30 nxengine NX[warning]: 2012-06-26T08:58:30 Sources with low disk space -1 [1]
+Jun 26 08:58:30 nxengine NX[23157]: 2012-06-26T08:58:30 Sources with low disk space -1 |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 09:00:00 nxengine NX[23157]: [NEXThink|CallbackManager.cpp:102|0xaed5c20] 536.5MB of virtual memory used
+Jun 26 09:15:00 nxengine NX[23157]: [2012-06-26 08:00:00] Sources with low disk space [2]
+Jun 26 09:15:00 nxengine NX[23157]: [2012-06-26 08:00:00] Sources with low disk space |NXT-FINDER|desktop|08.05.2012@18:03:11|8GB|
+Jun 26 09:15:00 nxengine NX[23157]: [2012-06-26 08:00:00] Sources with low disk space |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 09:19:30 nxengine NX[Error]: 2012-06-26T09:19:30 Untitled alert 1 [1]
+Jun 26 09:19:30 nxengine NX[23157]: 2012-06-26T09:19:30 Untitled alert 1 |PORTALTEST|192.168.0.131|CORP|desktop|Windows 7 Enterprise|2GB|01.01.1970@00:00:00|10.06.2012@23:44:47|
+Jun 26 09:19:30 nxengine NX[23157]: 2012-06-26T09:19:30 Sources with low disk space -1 [1]
+Jun 26 09:19:30 nxengine NX[23157]: 2012-06-26T09:19:30 Sources with low disk space -1 |PORTALTEST|desktop|23.05.2012@14:33:03|2GB|
+Jun 26 09:58:30 nxengine NX[Error]: 2012-06-26T09:58:30 Untitled alert 1 [1]
+Jun 26 09:58:30 nxengine NX[23157]: 2012-06-26T09:58:30 Untitled alert 1 |NXT-FINDER|192.168.0.37|CORP|desktop|Windows 7 Ultimate SP1|8GB|22.06.2012@13:41:07|25.06.2012@09:16:10|
+Jun 26 09:58:30 nxengine NX[23157]: 2012-06-26T09:58:30 Sources with low disk space -1 [1]
+:
+:

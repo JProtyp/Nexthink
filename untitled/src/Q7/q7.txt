@@ -1,0 +1,5 @@
+Q7 Answer:
+
+When I receive a Story it usually contains some acceptance criteria. I design my test plan around those requirements to
+make sure that are met at the end of the sprint/delivery. In case of missing requirements I propose some requirements
+that should be considered. I also add some extra requirements whenever I find them useful in QA terms.

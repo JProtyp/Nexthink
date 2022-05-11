@@ -1,0 +1,4 @@
+Q8 Answer:
+
+Automation is about making the QA life easier. For me the main reason for automate anything is to save time and efforts
+in repetitive process and labors, such regression tests and smoke testing.

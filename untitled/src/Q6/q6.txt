@@ -1,0 +1,2 @@
+Q6 Answer: A release notes document have to include information about the product, date and release number and information about
+changes from the last release.
