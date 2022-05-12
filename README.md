@@ -62,4 +62,4 @@ In your own words, what is automation all about? <br />
 
  
 ## Answers
-Answers can be found n folder **src**. Each question have it's own folder
+Answers can be found in folder **src**. Each question have it's own folder
