@@ -1,5 +1,4 @@
 # Nexthink
-# Quiz for Nexthink
 ## QA Recruitment Quiz
 
 ### Question 1:
@@ -60,3 +59,7 @@ How do you use acceptance tests in your work? <br />
     
 ### Question 8:
 In your own words, what is automation all about? <br />
+
+ 
+## Answers
+Answers can be found n folder **src**. Each question have it's own folder
